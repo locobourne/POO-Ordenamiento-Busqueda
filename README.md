@@ -1,6 +1,6 @@
 # POO-Ordenamiento-Busqueda
 
-# Prácticas de Programación Empleadas
+## Prácticas de Programación Empleadas
 
 ### Programación Orientada a Objetos (POO):
 + Uso de clases y objetos para modelar entidades.
@@ -30,3 +30,6 @@
 + Uso de estructuras de control como if-elif-else y bucles for y while para manejar la lógica del programa.
 ### Manejo de Funciones:
 + Definición y uso de funciones para modularizar el código y evitar la repetición de lógica.
+
+## Autor: 
+### Maximo Castillo
