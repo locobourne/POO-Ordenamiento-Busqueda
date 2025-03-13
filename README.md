@@ -1,5 +1,7 @@
 # POO-Ordenamiento-Busqueda
 
+# Prácticas de Programación Empleadas
+
 Programación Orientada a Objetos (POO):
 + Uso de clases y objetos para modelar entidades.
 + Definición de métodos especiales como __init__ (constructor) y __str__ (representación en cadena).
